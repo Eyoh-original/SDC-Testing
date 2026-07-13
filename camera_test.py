@@ -25,3 +25,11 @@ def test_camera(camera):
 
 test_camera("A")
 test_camera("B")
+
+#for i in range(20):
+
+    #print("Cycle", i)
+
+    #test_camera("A")
+
+    #test_camera("B")
